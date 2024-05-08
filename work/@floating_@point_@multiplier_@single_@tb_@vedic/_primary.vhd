@@ -1,0 +1,4 @@
+library verilog;
+use verilog.vl_types.all;
+entity Floating_Point_Multiplier_Single_Tb_Vedic is
+end Floating_Point_Multiplier_Single_Tb_Vedic;
